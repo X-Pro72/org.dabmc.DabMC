@@ -1,6 +1,6 @@
-# org.polymc.PolyMC
+# org.dabmc.DabMC
 
-A flatpak for [PolyMC](https://github.com/PolyMC/PolyMC)  
+A flatpak for [DabMC](https://github.com/X-Pro72/DabMC)  
 Please see upstream README for more information.
 
 ## FAQ
